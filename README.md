@@ -29,6 +29,14 @@ php artisan migrate
 php artisan db:seed
 ```
 
+install node packages/modules ( optional for this app )
+```
+npm install
+npm run build
+```
+now to start the laravel local developlement server
 ```
 php artisan serve
-``` 
+```
+
+
