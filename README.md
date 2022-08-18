@@ -31,5 +31,4 @@ php artisan db:seed
 
 ```
 php artisan serve
-```
-"# laravel-9-test-app" 
+``` 
